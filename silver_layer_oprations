@@ -1,0 +1,22 @@
+Workflow
+--------
+	Data Profiling (Optional)
+	Data Validation
+	Handle Null Values
+	Standardize Data
+	Remove Duplicates
+	Apply Business Rules
+	Add Schema
+	Rename Columns
+	Select Specific Columns
+	Data Enrichment (Optional)
+	Audit Logging and Metadata Tracking
+	Write Data to Silver Layer in CSV Format
+
+notebook 1:
+
+base_path = 
+data_source_path = base_path+
+filename = file_name
+
+notebook_2:
